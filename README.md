@@ -1,7 +1,5 @@
 # Hi there, I'm [Brian Otieno]! 👋
 
-![Banner Image](https://images.app.goo.gl/DDqVJqPEXqKu3JcB9)
-
 ## About Me 🚀
 
 **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
