@@ -1,8 +1,8 @@
-# Hi there, I'm [Brian Otieno]! 👋
+# Hi there, I'm Brian Otieno! 👋
 
 ## About Me 🚀
 
-**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+**.I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
